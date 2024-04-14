@@ -21,12 +21,12 @@ To run the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/your-username/sorting-visualization.git
+   [git clone https://github.com/your-username/sorting-visualization.git](https://github.com/Mohitjoshimj85/Sorting-Visualizer.git)
    
 
 2. Open the project directory in your code editor.
 
-3. Open the `index.html` file in your web browser to view the sorting visualization webpage.
+3. Open the `sort.html` file in your web browser to view the sorting visualization webpage.
 
 4. Interact with the controls to generate arrays, select sorting algorithms, and visualize their sorting process.
 
